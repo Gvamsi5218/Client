@@ -1,0 +1,8 @@
+
+.hero-header { 
+    padding-top:25vh;
+     background: url(../img/slider.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
